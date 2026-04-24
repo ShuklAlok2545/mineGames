@@ -1,6 +1,6 @@
-# Bet24 Mine Game WebApp
+#Mine Game WebApp
 
-**Bet24 Mine Game** is an interactive web app that combines a fun **mine game** with a **public chat** feature, allowing users to play and chat in real-time. Built with modern web technologies, this app provides a thrilling and social experience with integrated features to calculate profits and losses.
+**Mine Game** is an interactive web app that combines a fun **mine game** with a **public chat** feature, allowing users to play and chat in real-time. Built with modern web technologies, this app provides a thrilling and social experience with integrated features to calculate profits and losses.
 
 ## Features
 
